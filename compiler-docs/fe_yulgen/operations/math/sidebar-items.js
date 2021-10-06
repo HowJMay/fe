@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["adjust_numeric_size","Loads a value of the given type from storage."]]});

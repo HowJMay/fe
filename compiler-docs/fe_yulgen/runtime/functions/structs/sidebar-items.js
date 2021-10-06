@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["generate_get_fn","Generate a YUL function that can be used to read a property of a struct"],["generate_new_fn","Generate a YUL function that can be used to create an instance of a struct"],["struct_apis","Builds a set of functions used to interact with structs used in a contract"]]});
